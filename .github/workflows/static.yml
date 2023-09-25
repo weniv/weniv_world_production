@@ -32,7 +32,7 @@ jobs:
     - name: Checkout private Repo
       uses: actions/checkout@v3
       with:
-        repository: weinv/weniv_world
+        repository: weniv/weniv_world
         token: ${{ secrets.ACCESS_GITHUB_TOKEN }}
         path: .
     - name: Install and bulid

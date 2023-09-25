@@ -33,7 +33,7 @@ jobs:
       uses: actions/checkout@v3
       with:
         repository: weinv/weniv_world
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.ACCESS_GITHUB_TOKEN }}
         path: .
     - name: Install and bulid
       run: |

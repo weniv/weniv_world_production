@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout private Repo
-      uses: actions/checkout@v3
+      uses: actions/checkout@v2
       with:
         repository: weniv/weniv_world
         token: ${{ secrets.ACCESS_GITHUB_TOKEN }}

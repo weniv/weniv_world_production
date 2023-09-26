@@ -66,7 +66,7 @@ eval("module.exports = __webpack_require__.p + \"3df55ba77a69abf6cbd2.js\";\n\n/
   \****************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"577507462267cd378a4f.js\";\n\n//# sourceURL=webpack:///./assets/js/event.js?");
+eval("module.exports = __webpack_require__.p + \"2da9ff921712c7ec26dd.js\";\n\n//# sourceURL=webpack:///./assets/js/event.js?");
 
 /***/ }),
 
